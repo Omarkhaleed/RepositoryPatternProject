@@ -1,0 +1,12 @@
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\RepositoryPattern.core.csproj.AssemblyReference.cache
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\RepositoryPattern.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\RepositoryPattern.core.AssemblyInfoInputs.cache
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\RepositoryPattern.core.AssemblyInfo.cs
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\RepositoryPattern.core.csproj.CoreCompileInputs.cache
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\bin\Debug\net5.0\RepositoryPattern.core.deps.json
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\bin\Debug\net5.0\RepositoryPattern.core.dll
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\bin\Debug\net5.0\ref\RepositoryPattern.core.dll
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\bin\Debug\net5.0\RepositoryPattern.core.pdb
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\RepositoryPattern.core.dll
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\ref\RepositoryPattern.core.dll
+D:\WebDevelpment\BackEnd\ITI(Material-9months-DP WORLD)\DevCreedProjects\RepositoryPattern\RepositoryPattern.core\obj\Debug\net5.0\RepositoryPattern.core.pdb
